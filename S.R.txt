@@ -1,0 +1,887 @@
+Copyright (C) Microsoft Corporation. Tous droits réservés.
+
+Testez le nouveau système multiplateforme PowerShell https://aka.ms/pscore6
+
+PS C:\Users\Nantenaina Eulalie\Documents\Essai_S.de.R> python main.py
+Poste recommandé: Data Analyst I
+Description : Job Title
+Data Analyst I
+Job Description
+Job Responsibilities
+Managing and ensuring data quality, integrity, normalization and accuracy of available datasets. Improve data quality as per data quality framework and working with data owner. Internal and external benchmarking to establish things influencing data quality.
+Managing and designing the reporting environment, including data sources, security, and metadata. Generate business insights using BI dashboards that shall provide clear directions/actions to senior managers to support decision-making.
+Support digitization to improve quality of data. Root cause analysis by using quality analysis tools, machine learning and statistics.
+Helping organization to take key decisions based on integrated analytics involving different datasets. Perform predictive data analysis, generate indications for focus area and target the improvements proactively.
+Maintain and re-engineer existing ETLs to increase data accuracy, data stability, and pipeline performance.
+Advanced statistical techniques for complex data analysis. Interpreting data, analysing results using statistical techniques, developing analytical reports.
+Adherence to compliance procedures in accordance with regulatory standards, requirements, and policies. Managing and designing the reporting environment, including data sources security, and metadata.
+Sufficient business acumen to understand business objectives & dynamics
+As a data analyst, you will work with data from a wide range of sources. You will be taking responsibility for exploring the data, recommending actionable
+ insights, building visualizations/dashboard to provide information that matters to business. This will involve automating data quality checks, data extra
+ction and pre-processing. You will be the person who turns data into information, information into insights and insights into business decisions. You shou
+ld also have a very fine eye for detail and deep understanding of the popular data analysis tools and databases. As data analyst you will create compellin
+g reports using database-stored procedures and triggers. As the analytics team is chartered to be the one stop shop for all data needs, you will play an integral role in analytics team for the holistic growth of the businesses.
+Job Qualifications:
+Bachelor’s or master's degree in Computer Science, Information management, Statistics or related field
+5+ years of experience in the Consumer or Healthcare industry in an analytical role with focus on querying data, analyzing and clearly presenting analyses to stakeholders across the organization.
+Working experience on Python, R Programming, Scala, Apache Spark, AWS Redshift is must.
+Mandatory working experience in QlikView, Adobe analytics, Google 360. Knowledge in analytics tools like Tableau, Power BI, Excel VBA Macros, RSPSS, SAS is an added advantage.
+Proven working experience as a data analyst or business data analyst. Experience in working on Business intelligence tools/platforms and systems.
+Strong knowledge in data pre-processing and EDA by using various tools. Thorough in analytics/visualization tool setup, configuration and administration. 
+Having knowledge of classification (Random Forest, SVM, Boosting and Bagging techniques) and clustering algorithms is desirable
+Hands on in Descriptive/Predictive/Prescriptive Analytical techniques. Ability to collect, organize, analyze, and disseminate significant amounts of information with attention to detail and accuracy
+Results driven with analytical and numeric skills. Convey data story through the visualization.
+A team player capable of working and integrating across cross-functional team for implementing project requirements. Experience in technical requirements gathering and documentation.
+Ability to work effectively and independently in a fast-paced agile environment with tight deadlines
+A flexible, pragmatic and collaborative team player with innate ability to engage with stakeholders at all levels in the organization.
+
+Poste recommandé: Data Analyst
+Description : Data Analyst
+Job Title: Data Analyst
+Department: Data Analysis/Analytics
+Location: Bengaluru
+Position Type: Full Time
+Reports to: Data Analytics Manager/Team Lead
+Job Summary:
+The Data Analyst is responsible for collecting, processing, and analyzing data to provide actionable insights, support decision-making, and help achieve o
+rganizational goals. This role involves working with data from various sources, performing statistical analysis, creating data visualizations, and communicating findings to stakeholders.
+Key Responsibilities:
+Data Collection: Collect, clean, and preprocess data from internal and external sources to
+ensure data quality and accuracy.
+Data Analysis: Conduct exploratory data analysis (EDA) to identify patterns, trends, and
+anomalies in datasets.
+Statistical Analysis: Apply statistical techniques to analyze data and draw meaningful
+conclusions.
+Data Visualization: Create clear and compelling data visualizations, such as charts, graphs,
+and dashboards, to communicate findings effectively.
+Reporting: Prepare and present regular reports and insights to stakeholders, both technical
+and non-technical.
+Data Modelling: Develop and maintain data models to support business needs, including
+predictive and prescriptive modelling when required.
+Data Mining: Use data mining techniques to discover hidden insights and opportunities
+within the data.
+Hypothesis Testing: Design and conduct hypothesis tests to validate assumptions and
+hypotheses.
+Data Interpretation: Interpret data and provide actionable recommendations to drive
+business decisions.
+Data Governance: Ensure data is handled securely and in compliance with data privacy
+regulations and company policies.
+Collaboration: Collaborate with cross-functional teams, including business analysts,
+engineers, and decision-makers, to understand data requirements and deliver insights.
+Continuous Learning: Stay updated with the latest data analysis tools, techniques, and
+industry trends.
+Qualifications:
+Masters / Bachelor’s degree in (Mathematics, Computer Science, Business Analytics).
+Minimum of 2+ years of Proven experience as a Data Analyst or in a similar role.
+Proficiency in data analysis tools and software (e.g., Python, R, SQL, Excel).
+Knowledge of data visualization tools (e.g., Tableau, Power BI).
+Strong analytical and problem-solving skills.
+Excellent communication and presentation skills.
+Attention to detail and accuracy.
+Ability to work independently and in a team.
+Knowledge of data privacy and security best practices is a plus.
+Preferred Qualifications:
+Master’s degree in a relevant field.
+Experience with big data technologies and databases (e.g., Hadoop, Spark).
+Knowledge of machine learning and predictive analytics.
+Industry-specific certifications (e.g., Certified Data Analyst, Certified Analytics Professional).
+About Avaali
+Headquartered in Bangalore, started in 2013, Avaali Solutions is a leading provider of digital solutions to help reduce operational costs for upper mid to
+ large enterprises. The company has executed over 120+ engagements for large marquee brands across Asia, MEA, and parts of Europe. The company has its pro
+duct line under Velocious as well as its services and consulting offerings in partnership with various technology vendors. The company has done some of th
+e largest and most complex shared service automation projects and consolidated, standardized, and automated these processes. As a result of their engageme
+nts, they have brought about a 35-50% reduction in process cycle time and a 10-15% reduction in cost. Improved visibility, governance, and transparency ar
+e other themes that Avaali focuses on via these initiatives. The company has deep skills in technologies such as ML-based ICR/OCR, enterprise content mana
+gement, workflow automation solutions, chatbot, RPA, and digital signature. The company has a dominant presence in procure-to-pay automation with over 100
++ implementations in this space. Some of the prominent clients of Avaali Solutions are Tata Sky, Titan, Sun TV, Bidco Africa, Nayara Energy, and many more.
+For more information please website: https://www.avaali.com/
+Job Department
+Technology
+Job Type
+Full Time
+Job Location
+Bangalore
+
+Poste recommandé: Lead I - Data Science
+Description : Role Proficiency:
+Provide expertise on data analysis techniques using software tools. Under supervision streamline business processes.
+
+Outcomes:
+Design and manage the reporting environment; which include data sources security and metadata.
+Provide technical expertise on data storage structures data mining and data cleansing.
+Support the data warehouse in identifying and revising reporting requirements.
+Support initiatives for data integrity and normalization.
+Assess tests and implement new or upgraded software. Assist with strategic decisions on new systems. Generate reports from single or multiple systems.    
+Troubleshoot the reporting database environment and associated reports.
+Identify and recommend new ways to streamline business processes
+Illustrate data graphically and translate complex findings into written text.
+Locate results to help clients make better decisions. Solicit feedback from clients and build solutions based on feedback.
+Train end users on new reports and dashboards.
+Set FAST goals and provide feedback on FAST goals of repartees
+
+Measures of Outcomes:
+Quality - number of review comments on codes written
+Data consistency and data quality.
+Number of medium to large custom application data models designed and implemented
+Illustrates data graphically; translates complex findings into written text.
+Number of results located to help clients make informed decisions.
+Number of business processes changed due to vital analysis.
+Number of Business Intelligent Dashboards developed
+Number of productivity standards defined for project
+Number of mandatory trainings completed
+
+Outputs Expected:
+Determine Specific Data needs:
+Work with departmental managers to outline the specific data needs for each business method analysis project
+
+Critical business insights:
+Mines the business’s database in search of critical business insights; communicates findings to relevant departments.
+
+Code:
+Creates efficient and reusable SQL code meant for the improvement
+manipulation
+and analysis of data.
+Creates efficient and reusable code. Follows coding best practices.
+
+Create/Validate Data Models:
+Builds statistical models; diagnoses
+validates
+and improves the performance of these models over time.
+
+Predictive analytics:
+Seeks to determine likely outcomes by detecting tendencies in descriptive and diagnostic analysis
+
+Prescriptive analytics:
+Attempts to identify what business action to take
+
+Code Versioning:
+Organize and manage the changes and revisions to code. Use a version control tool for example git
+bitbucket. etc.
+
+Create Reports:
+Create reports depicting the trends and behaviours from analyzed data
+
+Document:
+Create documentation for worked performed. Additionally
+perform peer reviews of documentation of others' work
+
+Manage knowledge:
+Consume and contribute to project related documents
+share point
+libraries and client universities
+
+Status Reporting:
+Report status of tasks assigned
+Comply with project related reporting standards and processes
+
+Skill Examples:
+Analytical Skills: Ability to work with large amounts of data: facts figures and number crunching.
+Communication Skills: Communicate effectively with a diverse population at various organization levels with the right level of detail.
+Critical Thinking: Data Analysts must review numbers trends and data to come up with original conclusions based on the findings.
+Presentation Skills - facilitates reports and oral presentations to senior colleagues
+Strong meeting facilitation skills as well as presentation skills.
+Attention to Detail: Vigilant in the analysis to determine accurate conclusions.
+Mathematical Skills to estimate numerical data.
+Work in a team environment
+Proactively ask for and offer help
+
+Knowledge Examples:
+Database languages such as SQL
+Programming language such as R or Python
+Analytical tools and languages such as SAS & Mahout.
+Proficiency in MATLAB.
+Data visualization software such as Tableau or Qlik.
+Proficient in mathematics and calculations.
+Efficiently with spreadsheet tools such as Microsoft Excel or Google Sheets
+DBMS
+Operating Systems and software platforms
+Knowledge regarding customer domain and sub domain where problem is solved
+
+Additional Comments:
+• Experience in python, specifically in the area of data engineering in a commercial setting (e.g. hands on coding experience) (pandas (or dask, vaex etc)
+, Airflow) • Good understanding of ETL/ELT patterns, idempotency and other data engineering best practices. • Extensive Experience with data modelling (3r
+d normal form, star schemas, wide/tall projections) • Experience of dealing with Metadata and best practices for cataloguing datasets in Snowflake/other W
+arehouses • Excellent SQL knowledge, including an understanding of how to write optimised SQL code, good general knowledge of different SQL engines, and w
+hat considerations they bring when optimising. • Experience with integrating DataWarehouse/Data pipelines with Data Governance tools like Collibra • Famil
+iar with the concept of data virtualisation. • Practical understanding of how to profile SQL, and manage performance trade-offs. • Good knowledge of agile
+ methodology, and capable of following the framework, contributing to team success through participation in ceremonies and occasionally assisting with scr
+um-master duties, owning of retro actions and maintaining scrum artefacts. • Knowledgeable about how to build data pipelines that robustly handle differen
+t possible modes of failure and maintain Metadata. • Good knowledge of source control (GitHub especially) and working on a shared code-base. • Experience 
+working with business stakeholders in understanding requirements and translating these to technical requirements, implementing them, and then closing the loop with the stakeholders. • Working knowledge of enterprise access control RBAC style security as applied to data sets.
+
+Poste recommandé: Assistant Manager :: Data Analyst
+Description : Sales
+
+Job Title: Assistant Manager - Data Analytics
+Scaler Academy
+Job Description:
+As a Data Analyst, your primary responsibility is to gather, process, analyze, and interpret data to provide valuable insights and support data-driven dec
+ision-making within the organization. You will work closely with various stakeholders, such as business managers, data engineers, and data scientists, to 
+understand business requirements and deliver actionable recommendations. Your role is crucial in transforming raw data into meaningful information that can guide strategic planning and operational improvements.
+Key Responsibilities:
+Data Gathering and Cleaning: Collect data from various sources, including databases, spreadsheets, APIs, and other data repositories. Clean, validate, and preprocess the data to ensure accuracy and consistency.
+Data Analysis: Utilize statistical techniques and data analysis tools to extract relevant information and patterns from datasets. Identify trends, correlations, and anomalies to provide insights into business performance and operations.
+Data Visualization: Create clear and concise data visualizations, such as charts, graphs, and dashboards, to effectively communicate complex findings to non-technical stakeholders. Visualizations should be engaging, easy to understand, and actionable.
+Reporting: Develop regular and ad-hoc reports to support decision-making processes across different departments. Ensure that reports are delivered on time and provide valuable insights to relevant teams.
+Business Intelligence: Work closely with business managers to understand their analytical needs and assist in creating customized reports and data-driven solutions that address specific business challenges.
+Predictive Analytics: Required to build and validate predictive models that can forecast trends, identify opportunities, and predict potential risks for t
+he organization. 7. Data Quality Assurance: Implement data quality checks and measures to ensure data accuracy, integrity, and consistency. Address any data-related issues promptly and maintain data governance standards.
+Process Improvement: Continuously assess and optimize data processes to enhance data collection, analysis, and reporting efficiency. Propose and implement innovative solutions to improve data-related workflows.
+Stay Updated: Keep up-to-date with industry trends, best practices, and emerging technologies in data analysis, data visualization, and business intelligence.
+Required Skills and Qualifications:
+Bachelor's degree in a relevant field such as Data Science, Computer Science, Statistics, Mathematics, or a related discipline.
+Strong analytical and problem-solving skills with the ability to handle complex data sets. 3. Proficiency in data manipulation tools such as SQL, Python. 
+Experience with data visualization tools like Power BI, Excel.
+Understanding of statistical methods and techniques for data analysis. 6. Excellent communication skills, both verbal and written, with the ability to present findings to diverse audiences.
+Attention to detail and a commitment to data accuracy and quality.
+Ability to work independently and collaboratively in a team-oriented environment.
+As a Data Analyst, you will play a crucial role in empowering data-driven decision-making within the organization and contribute significantly to its over
+all success. Your work will directly impact various aspects of the business, making this role dynamic and rewarding for individuals with a passion for data analysis and problem-solving.
+Job Overview
+Location: Bengaluru
+Job Type: Full time
+Work: Office
+
+Poste recommandé: Data Engineer
+Description : Supports, develops and maintains a data and analytics platform. Effectively and efficiently process, store and make data available to analys
+ts and other consumers. Works with the Business and IT teams to understand the requirements to best leverage the technologies to enable agile data delivery at scale.
+Implements and automates deployment of our distributed system for ingesting and transforming data from various types of sources (relational, event-based, unstructured).
+Implements methods to continuously monitor and troubleshoot data quality and data integrity issues.
+Implements data governance processes and methods for managing metadata, access, retention to data for internal and external users.
+Develops reliable, efficient, scalable and quality data pipelines with monitoring and alert mechanisms that combine a variety of sources using ETL/ELT tools or scripting languages.
+Develops physical data models and implements data storage architectures as per design guidelines.
+Analyzes complex data elements and systems, data flow, dependencies, and relationships in order to contribute to conceptual physical and logical data models.
+Participates in testing and troubleshooting of data pipelines.
+Develops and operates large scale data storage and processing solutions using different distributed and cloud based platforms for storing data (e.g. Data Lakes, Hadoop, Hbase, Cassandra, MongoDB, Accumulo, DynamoDB, others).
+Uses agile development technologies, such as DevOps, Scrum, Kanban and continuous improvement cycle, for data driven application.
+Skills
+Data Extraction - Performs data extract-transform-load (ETL) activities from variety of sources and transforms them for consumption by various downstream applications and users using appropriate tools and technologies.
+Solution Documentation - Documents information and solution based on knowledge gained as part of product development activities; communicates to stakeholders with the goal of enabling improved productivity and effective knowledge transfer to others who were not originally part of the initial learning.      
+Quality Assurance Metrics - Applies the science of measurement to assess whether a solution meets its intended outcomes using the IT Operating Model (ITOM), including the SDLC standards, tools, metrics and key performance indicators, to deliver a quality product.
+Solution Validation Testing - Validates a configuration item change or solution using the Function's defined best practices, including the Systems Development Life Cycle (SDLC) standards, tools and metrics, to ensure that it works as designed and meets customer requirements.
+System Requirements Engineering - Uses appropriate methods and tools to translate stakeholder needs into verifiable requirements to which designs are deve
+loped; establishes acceptance criteria for the system of interest through analysis, allocation and negotiation; tracks the status of requirements througho
+ut the system lifecycle; assesses the impact of changes to system requirements on project scope, schedule, and resources; creates and maintains information linkages to related artifacts.
+Problem Solving - Solves problems using a systematic analysis process by leveraging industry standard methodologies to create problem traceability and pro
+tect the customer; determines the assignable cause; implements robust, data-based solutions; identifies the systemic root causes and recommended actions to prevent problem reoccurrence.
+Data Quality - Identifies, understands and corrects flaws in data that supports effective information governance across operational business processes and decision making.
+Programming - Creates, writes and tests computer code, test scripts, and build scripts using algorithmic analysis and design, industry standards and tools, version control, and build and test automation to meet business, technical, security, governance and compliance requirements.
+Customer focus - Building strong customer relationships and delivering customer-centric solutions.
+Decision quality - Making good and timely decisions that keep the organization moving forward.
+Collaborates - Building partnerships and working collaboratively with others to meet shared objectives.
+Communicates effectively - Developing and delivering multi-mode communications that convey a clear understanding of the unique needs of different audiences.
+Education, Licenses, Certifications
+College, university or equivalent degree preferred or equivalent work experience in relevant technical discipline.
+This position may require licensing for compliance with export controls or sanctions regulations.
+Experience
+Relevant experience preferred such as working in a temporary student employment, intern, co-op, or other extracurricular team activities.
+Knowledge of the latest technologies in data engineering is highly preferred and includes:
+Exposure to Big Data open source
+SPARK, Scala/Java, Map-Reduce, Hive, Hbase, and Kafka or equivalent college coursework
+SQL query language
+Clustered compute cloud-based implementation experience
+Familiarity developing applications requiring large file movement for a Cloud-based environment
+Exposure to Agile software development
+Exposure to building analytical solutions
+Exposure to IoT technology
+Mandatory Skills: MS BI (SSIS, SSAS, Power BI), SQL Server, RDBMS, SQL, Data Integration, ETL
+Secondary Skills: Azure - ADLS, ADF, Python
+Job SYSTEMS/INFORMATION TECHNOLOGY
+Primary Location India-Maharashtra-Pune-India, Pune, IOC Tower A
+Job Type Experienced - Exempt / Office
+Recruitment Job Type Exempt - Experienced
+
+PS C:\Users\Nantenaina Eulalie\Documents\Essai_S.de.R> 
+
+
+
+
+
+
+Copyright (C) Microsoft Corporation. Tous droits réservés.
+
+Testez le nouveau système multiplateforme PowerShell https://aka.ms/pscore6
+
+PS C:\Users\Nantenaina Eulalie\Documents\S.de.R_exposant> python main.py
+Catégorie de CV recommandée: Business Analyst
+Description : IT Skills: Area Exposure Modeling Tool: Bizagi, MS Visio Prototyping Tool: Indigo Studio. Documentation: MS Office (MS Word, MS Excel, MS Po
+wer Point) Testing Proficiency: Smoke, Sanity, Integration, Functional, Acceptance and UI Methodology implemented: Waterfall, Agile (Scrum) Database: SQL Testing Tool: HPQC Business Exposure Education Details
+ Bachelor Of Computer Engineering Computer Engineering Mumbai, Maharashtra Thadomal Shahani Engineering college
+ Diploma Computer Engineering Ulhasnagar, Maharashtra Institute of Technology
+ Secondary School Certificate  Ulhasnagar, Maharashtra New English High School
+Senior Business Analyst - RPA
+
+Senior Business Analyst - RPA - Hexaware Technologies
+Skill Details
+DOCUMENTATION- Exprience - 47 months
+TESTING- Exprience - 29 months
+INTEGRATION- Exprience - 25 months
+INTEGRATOR- Exprience - 25 months
+PROTOTYPE- Exprience - 13 monthsCompany Details
+company - Hexaware Technologies
+description - Working as a RPA Business Analyst
+company - BBH- Brown Brothers Harriman & Co
+description - is a private bank that provides commercial banking, investment management, brokerage, and trust services to private companies and individuals. It also performs merger advisory, foreign exchange, custody services, commercial banking, and corporate financing services.
+
+Responsibilities: â¢ Performed Automation Assessment of various Processes and identified processes which can be candidates of RPA.
+â¢ Conducting Assessment that involves an initial Understanding of the Existing System, their technology, processes, Usage of the tools, Feasibility of tool with automation tool along with automation ROI analysis.
+â¢ Preparing the Automation Potential Sheet which describes the steps in the process, the volume and frequency of the transaction, the AHT taken by SME to perform the process and depending on the steps that could be automated, Automation potential and the manual efforts that will be saved are calculated.   
+Calculating the complexity of the Process which is considered for automation and depending on all these factors Number of Bots and Number of Automation tool Licenses are determined.
+â¢ Implementing a Proof of Concept (POC) to Validate Feasibility by executing the selected critical use cases for conducting a POC which will helps to identify financial and operational benefits and provide recommendations regarding the actual need for complete automation.
+â¢ Gathering business requirements by conducting detailed interviews with business users, stakeholders, and Subject Matter Experts (SME's) â¢ Preparing Business Requirement Document and then converted Business requirements into Functional Requirements Specification.
+ â¢ Constructing prototype early toward a design acceptable to the customer and feasible.
+â¢ Assisting in designing test plans, test scenarios and test cases for integration, regression, and user acceptance testing (UAT) to improve the overall quality of the Automation.
+â¢ Participating regularly in Walkthroughs and Review meetings with Project Manager, QA Engineers, and Development team.
+â¢ Regularly interacting with offshore and onshore development teams.
+company - FADV - First Advantage
+description - is a criminal background check company that delivers global solutions ranging from employment screenings to background checks.
+The following are the processes which were covered:
+Email Process, Research Process, Review Process.
+
+Responsibilities: â¢ Requirement Gathering through conducting Interviews & Brainstorming sessions with stakeholders â¢ To develop decision models and execute those rules as per the use case specifications.
+â¢ To Test/validate the decision models against document test data.
+â¢ To maintain and enhance the decision models for changes in regulations as per use case specifications.
+â¢ Responsible for performing the business research that will make a business growth.
+â¢ Developing a clear understanding of existing business functions and processes.
+â¢ Effectively communicate with the onsite clients for the queries, suggestions, and update.
+â¢ Giving suggestions to enhance the current processes.
+â¢ Identifying areas for process improvement.
+â¢ Flagging up potential problems at an early stage.
+â¢ Preparing PowerPoint presentations and documents for business meetings.
+â¢ Using any information gathered to write up detailed reports.
+â¢ Highlighting risks and issues that could impact project delivery.
+â¢ Able to work accurately.
+â¢ To develop and maintain documentation for internal team training and client end user operations.
+â¢ To work efficiently with team members and across teams.
+â¢ To mentor and train junior team members.
+company - Clinical Testing, Lab Work and Diagnostic Testing
+description - IQVIA provides services to its customers this includes: Clinical Testing, Lab Work and Diagnostic Testing under clinical trial. These customers need to pay to IQVIA and aging details and invoices are generated for the same.
+The following are the processes which were covered:
+
+Tracking Payments, Automated Real Time Metrics Reporting (Dashboard), Past Due Notifications, AR Statements, Credit/Rebill.
+Responsibilities: â¢ Conducting meetings with clients and key stakeholders to gather requirements, analyze, finalize and have formal sign-offs from approv
+ers Gather and perform analysis of the business requirements â¢ Translating the business requirements into the Business Requirement Document [BRD], Functional Requirement Document [FRD].
+â¢ Facilitating meetings with the appropriate subject matter experts in both business and technology teams â¢ Coordinating with business user community fo
+r the execution of user acceptance test as well as tracking issues â¢ Working, collaborating and coordinating with Offshore and Onsite team members to ful
+fill the BA responsibilities from project initiation to Post-Implementation â¢ Reviewing the test scripts with business users as well as technology team. 
+Execute test scripts with expected results for the System Integration Test (SIT) and User Acceptance Test (UAT) â¢ Coordinating and conducting the Product
+ion Acceptance Testing (PAT) with the business users â¢ Creating flow diagrams, structure charts, and other types of system or process representations â¢ 
+Managing changes to requirements and baseline through a change control process â¢ Utilizing standard methods, design and testing tools throughout project 
+development life cycle â¢ Work closely with the operational functional teams, operations management, and personnel, and various technology teams to facilitate a shared understanding of requirements and priorities across all areas
+company - Eduavenir IT Solution
+description - Project: M.B.M.S
+
+M.B.M.S. - is an Inventory management application that allows user to manage inventory details of different warehouses, having different products located 
+at various locations and help extract what goods have been procured, sold or returned by customers. It generates automated invoicesalong withcustomized re
+ports. It also managescustomer complaint and resolution system implementation along with automated MIS on monthly basis.Sales and forecastingis also devel
+oped on MIS System and the streamlining of process of warehousing and dispatch along with online proof of delivery management system (POD documentation) is generated.
+
+Responsibilities: â¢ Participate in requirement gathering discussion with client to understand the flow of business processes â¢ Analyze the requirements 
+and determine the core processes, develop Process Documentation and ensure to stay up-to-date in conjunction with on-going changes â¢ Participate in process flow analysis and preparing BRD, SRS.
+â¢ Coordinating with developers, designers & operations teams for various nuances of the project, communicate the stakeholder requirements from requirement /enhancement to implementation and finally deliver the same within estimated timeframe.
+â¢ Support UAT by reviewing test cases, manage version control of documents, software builds.
+â¢ Coordinate with the stakeholders for UAT sign off and coordinate internally for production movement till Golive stage of the application.
+â¢ Provide demo and training to internal and end user using PowerPoint presentation.
+â¢ Resolving project functional &technical issues during UAT.
+â¢ Prioritizing the Production bugs and resolving the same within the estimated timeframe.
+â¢ Preparing Project Status Report and Production Bugs Status to all the stakeholders.
+â¢ Promoting and Networking for online trading platform.
+â¢ Designing query sheet for obtaining and comparison of quotes from various vendors.
+â¢ Development of product codes / material codes for inventory management (Master Data Management)
+company - CAPGEMINI Head Office
+description - Type: Mobile and Device Testing.       Duration: January 2014 - August 2014
+
+Follet - An application which takes an electronic request from the user for the books he requires from a particular follet store. This detailed informatio
+n about books that will include the name of the book, its price, the date of the transaction and the parties involved which will then be sent to follet st
+ores. User then create request for one or more books for a given date. This request is then processed further and user gets a mail of the date when he will be provided with that book.
+
+Responsibilities: â¢ Understanding the needs and business requirements.
+â¢ Preparing BRD, SRS by eliciting all the requirements from the client and SMEs â¢ Understanding the dependency of the modules in the system â¢ Preparation of test plan for Unit level and Integration level.
+â¢ Preparation and execution of test cases.
+â¢ Defect tracking, Issue Resolution, Risk Monitoring, Status Tracking, Reporting and Follow-up.
+â¢ Preparation of Test Completion report.
+company - CAPGEMINI Head Office
+description -
+company - CAPGEMINI Head Office
+description - Humana is a health care insurance project of U.S. which deals with supplying various medicines to citizens as per the doctor's reference and
+ patient's insurance policy. This application keeps track of all the medicines user has consumed in the past and generates a patient history. A citizen is given a drug only after the doctor's reference so the doctor's information is also linked with the patient's history.
+
+Responsibilities: â¢ Understanding the requirements and getting clarifications from client.
+â¢ Involved in writing test cases based on test scenarios and execute them.
+â¢ Ensuring Test Coverage using Requirement Traceability Matrix (RTM) â¢ Preparation of Test Completion report.
+company - CAPGEMINI Head Office
+description - Testing Trends WQR (World Quality Report) is an application which allows the users to take a survey on different methods and technologies us
+ed for testing. Users can choose to answer any type of questions under three different categories. Users have a facility to search, view and export the da
+ta to excel. Also, users get daily and weekly reports through email about the new trends in testing implemented around the globe. Testing Trends WQR app is available on Android and IOS platforms.
+
+Responsibilities: â¢ Understanding the requirements and getting clarifications from client.
+â¢ Writing test cases based on test scenarios and executed them.
+â¢ Performing different types of testing such as Functional, Integration, System, and UAT.
+â¢ Defect resolution and maintenance of the application.
+
+Catégorie de CV recommandée: Business Analyst
+Description : IT Skills: Area Exposure Modeling Tool: Bizagi, MS Visio Prototyping Tool: Indigo Studio. Documentation: MS Office (MS Word, MS Excel, MS Po
+wer Point) Testing Proficiency: Smoke, Sanity, Integration, Functional, Acceptance and UI Methodology implemented: Waterfall, Agile (Scrum) Database: SQL Testing Tool: HPQC Business Exposure Education Details
+ Bachelor Of Computer Engineering Computer Engineering Mumbai, Maharashtra Thadomal Shahani Engineering college
+ Diploma Computer Engineering Ulhasnagar, Maharashtra Institute of Technology
+ Secondary School Certificate  Ulhasnagar, Maharashtra New English High School
+Senior Business Analyst - RPA
+
+Senior Business Analyst - RPA - Hexaware Technologies
+Skill Details
+DOCUMENTATION- Exprience - 47 months
+TESTING- Exprience - 29 months
+INTEGRATION- Exprience - 25 months
+INTEGRATOR- Exprience - 25 months
+PROTOTYPE- Exprience - 13 monthsCompany Details
+company - Hexaware Technologies
+description - Working as a RPA Business Analyst
+company - BBH- Brown Brothers Harriman & Co
+description - is a private bank that provides commercial banking, investment management, brokerage, and trust services to private companies and individuals. It also performs merger advisory, foreign exchange, custody services, commercial banking, and corporate financing services.
+
+Responsibilities: â¢ Performed Automation Assessment of various Processes and identified processes which can be candidates of RPA.
+â¢ Conducting Assessment that involves an initial Understanding of the Existing System, their technology, processes, Usage of the tools, Feasibility of tool with automation tool along with automation ROI analysis.
+â¢ Preparing the Automation Potential Sheet which describes the steps in the process, the volume and frequency of the transaction, the AHT taken by SME to perform the process and depending on the steps that could be automated, Automation potential and the manual efforts that will be saved are calculated.   
+Calculating the complexity of the Process which is considered for automation and depending on all these factors Number of Bots and Number of Automation tool Licenses are determined.
+â¢ Implementing a Proof of Concept (POC) to Validate Feasibility by executing the selected critical use cases for conducting a POC which will helps to identify financial and operational benefits and provide recommendations regarding the actual need for complete automation.
+â¢ Gathering business requirements by conducting detailed interviews with business users, stakeholders, and Subject Matter Experts (SME's) â¢ Preparing Business Requirement Document and then converted Business requirements into Functional Requirements Specification.
+ â¢ Constructing prototype early toward a design acceptable to the customer and feasible.
+â¢ Assisting in designing test plans, test scenarios and test cases for integration, regression, and user acceptance testing (UAT) to improve the overall quality of the Automation.
+â¢ Participating regularly in Walkthroughs and Review meetings with Project Manager, QA Engineers, and Development team.
+â¢ Regularly interacting with offshore and onshore development teams.
+company - FADV - First Advantage
+description - is a criminal background check company that delivers global solutions ranging from employment screenings to background checks.
+The following are the processes which were covered:
+Email Process, Research Process, Review Process.
+
+Responsibilities: â¢ Requirement Gathering through conducting Interviews & Brainstorming sessions with stakeholders â¢ To develop decision models and execute those rules as per the use case specifications.
+â¢ To Test/validate the decision models against document test data.
+â¢ To maintain and enhance the decision models for changes in regulations as per use case specifications.
+â¢ Responsible for performing the business research that will make a business growth.
+â¢ Developing a clear understanding of existing business functions and processes.
+â¢ Effectively communicate with the onsite clients for the queries, suggestions, and update.
+â¢ Giving suggestions to enhance the current processes.
+â¢ Identifying areas for process improvement.
+â¢ Flagging up potential problems at an early stage.
+â¢ Preparing PowerPoint presentations and documents for business meetings.
+â¢ Using any information gathered to write up detailed reports.
+â¢ Highlighting risks and issues that could impact project delivery.
+â¢ Able to work accurately.
+â¢ To develop and maintain documentation for internal team training and client end user operations.
+â¢ To work efficiently with team members and across teams.
+â¢ To mentor and train junior team members.
+company - Clinical Testing, Lab Work and Diagnostic Testing
+description - IQVIA provides services to its customers this includes: Clinical Testing, Lab Work and Diagnostic Testing under clinical trial. These customers need to pay to IQVIA and aging details and invoices are generated for the same.
+The following are the processes which were covered:
+
+Tracking Payments, Automated Real Time Metrics Reporting (Dashboard), Past Due Notifications, AR Statements, Credit/Rebill.
+Responsibilities: â¢ Conducting meetings with clients and key stakeholders to gather requirements, analyze, finalize and have formal sign-offs from approv
+ers Gather and perform analysis of the business requirements â¢ Translating the business requirements into the Business Requirement Document [BRD], Functional Requirement Document [FRD].
+â¢ Facilitating meetings with the appropriate subject matter experts in both business and technology teams â¢ Coordinating with business user community fo
+r the execution of user acceptance test as well as tracking issues â¢ Working, collaborating and coordinating with Offshore and Onsite team members to ful
+fill the BA responsibilities from project initiation to Post-Implementation â¢ Reviewing the test scripts with business users as well as technology team. 
+Execute test scripts with expected results for the System Integration Test (SIT) and User Acceptance Test (UAT) â¢ Coordinating and conducting the Product
+ion Acceptance Testing (PAT) with the business users â¢ Creating flow diagrams, structure charts, and other types of system or process representations â¢ 
+Managing changes to requirements and baseline through a change control process â¢ Utilizing standard methods, design and testing tools throughout project 
+development life cycle â¢ Work closely with the operational functional teams, operations management, and personnel, and various technology teams to facilitate a shared understanding of requirements and priorities across all areas
+company - Eduavenir IT Solution
+description - Project: M.B.M.S
+
+M.B.M.S. - is an Inventory management application that allows user to manage inventory details of different warehouses, having different products located 
+at various locations and help extract what goods have been procured, sold or returned by customers. It generates automated invoicesalong withcustomized re
+ports. It also managescustomer complaint and resolution system implementation along with automated MIS on monthly basis.Sales and forecastingis also devel
+oped on MIS System and the streamlining of process of warehousing and dispatch along with online proof of delivery management system (POD documentation) is generated.
+
+Responsibilities: â¢ Participate in requirement gathering discussion with client to understand the flow of business processes â¢ Analyze the requirements 
+and determine the core processes, develop Process Documentation and ensure to stay up-to-date in conjunction with on-going changes â¢ Participate in process flow analysis and preparing BRD, SRS.
+â¢ Coordinating with developers, designers & operations teams for various nuances of the project, communicate the stakeholder requirements from requirement /enhancement to implementation and finally deliver the same within estimated timeframe.
+â¢ Support UAT by reviewing test cases, manage version control of documents, software builds.
+â¢ Coordinate with the stakeholders for UAT sign off and coordinate internally for production movement till Golive stage of the application.
+â¢ Provide demo and training to internal and end user using PowerPoint presentation.
+â¢ Resolving project functional &technical issues during UAT.
+â¢ Prioritizing the Production bugs and resolving the same within the estimated timeframe.
+â¢ Preparing Project Status Report and Production Bugs Status to all the stakeholders.
+â¢ Promoting and Networking for online trading platform.
+â¢ Designing query sheet for obtaining and comparison of quotes from various vendors.
+â¢ Development of product codes / material codes for inventory management (Master Data Management)
+company - CAPGEMINI Head Office
+description - Type: Mobile and Device Testing.       Duration: January 2014 - August 2014
+
+Follet - An application which takes an electronic request from the user for the books he requires from a particular follet store. This detailed informatio
+n about books that will include the name of the book, its price, the date of the transaction and the parties involved which will then be sent to follet st
+ores. User then create request for one or more books for a given date. This request is then processed further and user gets a mail of the date when he will be provided with that book.
+
+Responsibilities: â¢ Understanding the needs and business requirements.
+â¢ Preparing BRD, SRS by eliciting all the requirements from the client and SMEs â¢ Understanding the dependency of the modules in the system â¢ Preparation of test plan for Unit level and Integration level.
+â¢ Preparation and execution of test cases.
+â¢ Defect tracking, Issue Resolution, Risk Monitoring, Status Tracking, Reporting and Follow-up.
+â¢ Preparation of Test Completion report.
+company - CAPGEMINI Head Office
+description -
+company - CAPGEMINI Head Office
+description - Humana is a health care insurance project of U.S. which deals with supplying various medicines to citizens as per the doctor's reference and
+ patient's insurance policy. This application keeps track of all the medicines user has consumed in the past and generates a patient history. A citizen is given a drug only after the doctor's reference so the doctor's information is also linked with the patient's history.
+
+Responsibilities: â¢ Understanding the requirements and getting clarifications from client.
+â¢ Involved in writing test cases based on test scenarios and execute them.
+â¢ Ensuring Test Coverage using Requirement Traceability Matrix (RTM) â¢ Preparation of Test Completion report.
+company - CAPGEMINI Head Office
+description - Testing Trends WQR (World Quality Report) is an application which allows the users to take a survey on different methods and technologies us
+ed for testing. Users can choose to answer any type of questions under three different categories. Users have a facility to search, view and export the da
+ta to excel. Also, users get daily and weekly reports through email about the new trends in testing implemented around the globe. Testing Trends WQR app is available on Android and IOS platforms.
+
+Responsibilities: â¢ Understanding the requirements and getting clarifications from client.
+â¢ Writing test cases based on test scenarios and executed them.
+â¢ Performing different types of testing such as Functional, Integration, System, and UAT.
+â¢ Defect resolution and maintenance of the application.
+
+Catégorie de CV recommandée: Business Analyst
+Description : IT Skills: Area Exposure Modeling Tool: Bizagi, MS Visio Prototyping Tool: Indigo Studio. Documentation: MS Office (MS Word, MS Excel, MS Po
+wer Point) Testing Proficiency: Smoke, Sanity, Integration, Functional, Acceptance and UI Methodology implemented: Waterfall, Agile (Scrum) Database: SQL Testing Tool: HPQC Business Exposure Education Details
+ Bachelor Of Computer Engineering Computer Engineering Mumbai, Maharashtra Thadomal Shahani Engineering college
+ Diploma Computer Engineering Ulhasnagar, Maharashtra Institute of Technology
+ Secondary School Certificate  Ulhasnagar, Maharashtra New English High School
+Senior Business Analyst - RPA
+
+Senior Business Analyst - RPA - Hexaware Technologies
+Skill Details
+DOCUMENTATION- Exprience - 47 months
+TESTING- Exprience - 29 months
+INTEGRATION- Exprience - 25 months
+INTEGRATOR- Exprience - 25 months
+PROTOTYPE- Exprience - 13 monthsCompany Details
+company - Hexaware Technologies
+description - Working as a RPA Business Analyst
+company - BBH- Brown Brothers Harriman & Co
+description - is a private bank that provides commercial banking, investment management, brokerage, and trust services to private companies and individuals. It also performs merger advisory, foreign exchange, custody services, commercial banking, and corporate financing services.
+
+Responsibilities: â¢ Performed Automation Assessment of various Processes and identified processes which can be candidates of RPA.
+â¢ Conducting Assessment that involves an initial Understanding of the Existing System, their technology, processes, Usage of the tools, Feasibility of tool with automation tool along with automation ROI analysis.
+â¢ Preparing the Automation Potential Sheet which describes the steps in the process, the volume and frequency of the transaction, the AHT taken by SME to perform the process and depending on the steps that could be automated, Automation potential and the manual efforts that will be saved are calculated.   
+Calculating the complexity of the Process which is considered for automation and depending on all these factors Number of Bots and Number of Automation tool Licenses are determined.
+â¢ Implementing a Proof of Concept (POC) to Validate Feasibility by executing the selected critical use cases for conducting a POC which will helps to identify financial and operational benefits and provide recommendations regarding the actual need for complete automation.
+â¢ Gathering business requirements by conducting detailed interviews with business users, stakeholders, and Subject Matter Experts (SME's) â¢ Preparing Business Requirement Document and then converted Business requirements into Functional Requirements Specification.
+ â¢ Constructing prototype early toward a design acceptable to the customer and feasible.
+â¢ Assisting in designing test plans, test scenarios and test cases for integration, regression, and user acceptance testing (UAT) to improve the overall quality of the Automation.
+â¢ Participating regularly in Walkthroughs and Review meetings with Project Manager, QA Engineers, and Development team.
+â¢ Regularly interacting with offshore and onshore development teams.
+company - FADV - First Advantage
+description - is a criminal background check company that delivers global solutions ranging from employment screenings to background checks.
+The following are the processes which were covered:
+Email Process, Research Process, Review Process.
+
+Responsibilities: â¢ Requirement Gathering through conducting Interviews & Brainstorming sessions with stakeholders â¢ To develop decision models and execute those rules as per the use case specifications.
+â¢ To Test/validate the decision models against document test data.
+â¢ To maintain and enhance the decision models for changes in regulations as per use case specifications.
+â¢ Responsible for performing the business research that will make a business growth.
+â¢ Developing a clear understanding of existing business functions and processes.
+â¢ Effectively communicate with the onsite clients for the queries, suggestions, and update.
+â¢ Giving suggestions to enhance the current processes.
+â¢ Identifying areas for process improvement.
+â¢ Flagging up potential problems at an early stage.
+â¢ Preparing PowerPoint presentations and documents for business meetings.
+â¢ Using any information gathered to write up detailed reports.
+â¢ Highlighting risks and issues that could impact project delivery.
+â¢ Able to work accurately.
+â¢ To develop and maintain documentation for internal team training and client end user operations.
+â¢ To work efficiently with team members and across teams.
+â¢ To mentor and train junior team members.
+company - Clinical Testing, Lab Work and Diagnostic Testing
+description - IQVIA provides services to its customers this includes: Clinical Testing, Lab Work and Diagnostic Testing under clinical trial. These customers need to pay to IQVIA and aging details and invoices are generated for the same.
+The following are the processes which were covered:
+
+Tracking Payments, Automated Real Time Metrics Reporting (Dashboard), Past Due Notifications, AR Statements, Credit/Rebill.
+Responsibilities: â¢ Conducting meetings with clients and key stakeholders to gather requirements, analyze, finalize and have formal sign-offs from approv
+ers Gather and perform analysis of the business requirements â¢ Translating the business requirements into the Business Requirement Document [BRD], Functional Requirement Document [FRD].
+â¢ Facilitating meetings with the appropriate subject matter experts in both business and technology teams â¢ Coordinating with business user community fo
+r the execution of user acceptance test as well as tracking issues â¢ Working, collaborating and coordinating with Offshore and Onsite team members to ful
+fill the BA responsibilities from project initiation to Post-Implementation â¢ Reviewing the test scripts with business users as well as technology team. 
+Execute test scripts with expected results for the System Integration Test (SIT) and User Acceptance Test (UAT) â¢ Coordinating and conducting the Product
+ion Acceptance Testing (PAT) with the business users â¢ Creating flow diagrams, structure charts, and other types of system or process representations â¢ 
+Managing changes to requirements and baseline through a change control process â¢ Utilizing standard methods, design and testing tools throughout project 
+development life cycle â¢ Work closely with the operational functional teams, operations management, and personnel, and various technology teams to facilitate a shared understanding of requirements and priorities across all areas
+company - Eduavenir IT Solution
+description - Project: M.B.M.S
+
+M.B.M.S. - is an Inventory management application that allows user to manage inventory details of different warehouses, having different products located 
+at various locations and help extract what goods have been procured, sold or returned by customers. It generates automated invoicesalong withcustomized re
+ports. It also managescustomer complaint and resolution system implementation along with automated MIS on monthly basis.Sales and forecastingis also devel
+oped on MIS System and the streamlining of process of warehousing and dispatch along with online proof of delivery management system (POD documentation) is generated.
+
+Responsibilities: â¢ Participate in requirement gathering discussion with client to understand the flow of business processes â¢ Analyze the requirements 
+and determine the core processes, develop Process Documentation and ensure to stay up-to-date in conjunction with on-going changes â¢ Participate in process flow analysis and preparing BRD, SRS.
+â¢ Coordinating with developers, designers & operations teams for various nuances of the project, communicate the stakeholder requirements from requirement /enhancement to implementation and finally deliver the same within estimated timeframe.
+â¢ Support UAT by reviewing test cases, manage version control of documents, software builds.
+â¢ Coordinate with the stakeholders for UAT sign off and coordinate internally for production movement till Golive stage of the application.
+â¢ Provide demo and training to internal and end user using PowerPoint presentation.
+â¢ Resolving project functional &technical issues during UAT.
+â¢ Prioritizing the Production bugs and resolving the same within the estimated timeframe.
+â¢ Preparing Project Status Report and Production Bugs Status to all the stakeholders.
+â¢ Promoting and Networking for online trading platform.
+â¢ Designing query sheet for obtaining and comparison of quotes from various vendors.
+â¢ Development of product codes / material codes for inventory management (Master Data Management)
+company - CAPGEMINI Head Office
+description - Type: Mobile and Device Testing.       Duration: January 2014 - August 2014
+
+Follet - An application which takes an electronic request from the user for the books he requires from a particular follet store. This detailed informatio
+n about books that will include the name of the book, its price, the date of the transaction and the parties involved which will then be sent to follet st
+ores. User then create request for one or more books for a given date. This request is then processed further and user gets a mail of the date when he will be provided with that book.
+
+Responsibilities: â¢ Understanding the needs and business requirements.
+â¢ Preparing BRD, SRS by eliciting all the requirements from the client and SMEs â¢ Understanding the dependency of the modules in the system â¢ Preparation of test plan for Unit level and Integration level.
+â¢ Preparation and execution of test cases.
+â¢ Defect tracking, Issue Resolution, Risk Monitoring, Status Tracking, Reporting and Follow-up.
+â¢ Preparation of Test Completion report.
+company - CAPGEMINI Head Office
+description -
+company - CAPGEMINI Head Office
+description - Humana is a health care insurance project of U.S. which deals with supplying various medicines to citizens as per the doctor's reference and
+ patient's insurance policy. This application keeps track of all the medicines user has consumed in the past and generates a patient history. A citizen is given a drug only after the doctor's reference so the doctor's information is also linked with the patient's history.
+
+Responsibilities: â¢ Understanding the requirements and getting clarifications from client.
+â¢ Involved in writing test cases based on test scenarios and execute them.
+â¢ Ensuring Test Coverage using Requirement Traceability Matrix (RTM) â¢ Preparation of Test Completion report.
+company - CAPGEMINI Head Office
+description - Testing Trends WQR (World Quality Report) is an application which allows the users to take a survey on different methods and technologies us
+ed for testing. Users can choose to answer any type of questions under three different categories. Users have a facility to search, view and export the da
+ta to excel. Also, users get daily and weekly reports through email about the new trends in testing implemented around the globe. Testing Trends WQR app is available on Android and IOS platforms.
+
+Responsibilities: â¢ Understanding the requirements and getting clarifications from client.
+â¢ Writing test cases based on test scenarios and executed them.
+â¢ Performing different types of testing such as Functional, Integration, System, and UAT.
+â¢ Defect resolution and maintenance of the application.
+
+Catégorie de CV recommandée: Business Analyst
+Description : IT Skills: Area Exposure Modeling Tool: Bizagi, MS Visio Prototyping Tool: Indigo Studio. Documentation: MS Office (MS Word, MS Excel, MS Po
+wer Point) Testing Proficiency: Smoke, Sanity, Integration, Functional, Acceptance and UI Methodology implemented: Waterfall, Agile (Scrum) Database: SQL Testing Tool: HPQC Business Exposure Education Details
+ Bachelor Of Computer Engineering Computer Engineering Mumbai, Maharashtra Thadomal Shahani Engineering college
+ Diploma Computer Engineering Ulhasnagar, Maharashtra Institute of Technology
+ Secondary School Certificate  Ulhasnagar, Maharashtra New English High School
+Senior Business Analyst - RPA
+
+Senior Business Analyst - RPA - Hexaware Technologies
+Skill Details
+DOCUMENTATION- Exprience - 47 months
+TESTING- Exprience - 29 months
+INTEGRATION- Exprience - 25 months
+INTEGRATOR- Exprience - 25 months
+PROTOTYPE- Exprience - 13 monthsCompany Details
+company - Hexaware Technologies
+description - Working as a RPA Business Analyst
+company - BBH- Brown Brothers Harriman & Co
+description - is a private bank that provides commercial banking, investment management, brokerage, and trust services to private companies and individuals. It also performs merger advisory, foreign exchange, custody services, commercial banking, and corporate financing services.
+
+Responsibilities: â¢ Performed Automation Assessment of various Processes and identified processes which can be candidates of RPA.
+â¢ Conducting Assessment that involves an initial Understanding of the Existing System, their technology, processes, Usage of the tools, Feasibility of tool with automation tool along with automation ROI analysis.
+â¢ Preparing the Automation Potential Sheet which describes the steps in the process, the volume and frequency of the transaction, the AHT taken by SME to perform the process and depending on the steps that could be automated, Automation potential and the manual efforts that will be saved are calculated.   
+Calculating the complexity of the Process which is considered for automation and depending on all these factors Number of Bots and Number of Automation tool Licenses are determined.
+â¢ Implementing a Proof of Concept (POC) to Validate Feasibility by executing the selected critical use cases for conducting a POC which will helps to identify financial and operational benefits and provide recommendations regarding the actual need for complete automation.
+â¢ Gathering business requirements by conducting detailed interviews with business users, stakeholders, and Subject Matter Experts (SME's) â¢ Preparing Business Requirement Document and then converted Business requirements into Functional Requirements Specification.
+ â¢ Constructing prototype early toward a design acceptable to the customer and feasible.
+â¢ Assisting in designing test plans, test scenarios and test cases for integration, regression, and user acceptance testing (UAT) to improve the overall quality of the Automation.
+â¢ Participating regularly in Walkthroughs and Review meetings with Project Manager, QA Engineers, and Development team.
+â¢ Regularly interacting with offshore and onshore development teams.
+company - FADV - First Advantage
+description - is a criminal background check company that delivers global solutions ranging from employment screenings to background checks.
+The following are the processes which were covered:
+Email Process, Research Process, Review Process.
+
+Responsibilities: â¢ Requirement Gathering through conducting Interviews & Brainstorming sessions with stakeholders â¢ To develop decision models and execute those rules as per the use case specifications.
+â¢ To Test/validate the decision models against document test data.
+â¢ To maintain and enhance the decision models for changes in regulations as per use case specifications.
+â¢ Responsible for performing the business research that will make a business growth.
+â¢ Developing a clear understanding of existing business functions and processes.
+â¢ Effectively communicate with the onsite clients for the queries, suggestions, and update.
+â¢ Giving suggestions to enhance the current processes.
+â¢ Identifying areas for process improvement.
+â¢ Flagging up potential problems at an early stage.
+â¢ Preparing PowerPoint presentations and documents for business meetings.
+â¢ Using any information gathered to write up detailed reports.
+â¢ Highlighting risks and issues that could impact project delivery.
+â¢ Able to work accurately.
+â¢ To develop and maintain documentation for internal team training and client end user operations.
+â¢ To work efficiently with team members and across teams.
+â¢ To mentor and train junior team members.
+company - Clinical Testing, Lab Work and Diagnostic Testing
+description - IQVIA provides services to its customers this includes: Clinical Testing, Lab Work and Diagnostic Testing under clinical trial. These customers need to pay to IQVIA and aging details and invoices are generated for the same.
+The following are the processes which were covered:
+
+Tracking Payments, Automated Real Time Metrics Reporting (Dashboard), Past Due Notifications, AR Statements, Credit/Rebill.
+Responsibilities: â¢ Conducting meetings with clients and key stakeholders to gather requirements, analyze, finalize and have formal sign-offs from approv
+ers Gather and perform analysis of the business requirements â¢ Translating the business requirements into the Business Requirement Document [BRD], Functional Requirement Document [FRD].
+â¢ Facilitating meetings with the appropriate subject matter experts in both business and technology teams â¢ Coordinating with business user community fo
+r the execution of user acceptance test as well as tracking issues â¢ Working, collaborating and coordinating with Offshore and Onsite team members to ful
+fill the BA responsibilities from project initiation to Post-Implementation â¢ Reviewing the test scripts with business users as well as technology team. 
+Execute test scripts with expected results for the System Integration Test (SIT) and User Acceptance Test (UAT) â¢ Coordinating and conducting the Product
+ion Acceptance Testing (PAT) with the business users â¢ Creating flow diagrams, structure charts, and other types of system or process representations â¢ 
+Managing changes to requirements and baseline through a change control process â¢ Utilizing standard methods, design and testing tools throughout project 
+development life cycle â¢ Work closely with the operational functional teams, operations management, and personnel, and various technology teams to facilitate a shared understanding of requirements and priorities across all areas
+company - Eduavenir IT Solution
+description - Project: M.B.M.S
+
+M.B.M.S. - is an Inventory management application that allows user to manage inventory details of different warehouses, having different products located 
+at various locations and help extract what goods have been procured, sold or returned by customers. It generates automated invoicesalong withcustomized re
+ports. It also managescustomer complaint and resolution system implementation along with automated MIS on monthly basis.Sales and forecastingis also devel
+oped on MIS System and the streamlining of process of warehousing and dispatch along with online proof of delivery management system (POD documentation) is generated.
+
+Responsibilities: â¢ Participate in requirement gathering discussion with client to understand the flow of business processes â¢ Analyze the requirements 
+and determine the core processes, develop Process Documentation and ensure to stay up-to-date in conjunction with on-going changes â¢ Participate in process flow analysis and preparing BRD, SRS.
+â¢ Coordinating with developers, designers & operations teams for various nuances of the project, communicate the stakeholder requirements from requirement /enhancement to implementation and finally deliver the same within estimated timeframe.
+â¢ Support UAT by reviewing test cases, manage version control of documents, software builds.
+â¢ Coordinate with the stakeholders for UAT sign off and coordinate internally for production movement till Golive stage of the application.
+â¢ Provide demo and training to internal and end user using PowerPoint presentation.
+â¢ Resolving project functional &technical issues during UAT.
+â¢ Prioritizing the Production bugs and resolving the same within the estimated timeframe.
+â¢ Preparing Project Status Report and Production Bugs Status to all the stakeholders.
+â¢ Promoting and Networking for online trading platform.
+â¢ Designing query sheet for obtaining and comparison of quotes from various vendors.
+â¢ Development of product codes / material codes for inventory management (Master Data Management)
+company - CAPGEMINI Head Office
+description - Type: Mobile and Device Testing.       Duration: January 2014 - August 2014
+
+Follet - An application which takes an electronic request from the user for the books he requires from a particular follet store. This detailed informatio
+n about books that will include the name of the book, its price, the date of the transaction and the parties involved which will then be sent to follet st
+ores. User then create request for one or more books for a given date. This request is then processed further and user gets a mail of the date when he will be provided with that book.
+
+Responsibilities: â¢ Understanding the needs and business requirements.
+â¢ Preparing BRD, SRS by eliciting all the requirements from the client and SMEs â¢ Understanding the dependency of the modules in the system â¢ Preparation of test plan for Unit level and Integration level.
+â¢ Preparation and execution of test cases.
+â¢ Defect tracking, Issue Resolution, Risk Monitoring, Status Tracking, Reporting and Follow-up.
+â¢ Preparation of Test Completion report.
+company - CAPGEMINI Head Office
+description -
+company - CAPGEMINI Head Office
+description - Humana is a health care insurance project of U.S. which deals with supplying various medicines to citizens as per the doctor's reference and
+ patient's insurance policy. This application keeps track of all the medicines user has consumed in the past and generates a patient history. A citizen is given a drug only after the doctor's reference so the doctor's information is also linked with the patient's history.
+
+Responsibilities: â¢ Understanding the requirements and getting clarifications from client.
+â¢ Involved in writing test cases based on test scenarios and execute them.
+â¢ Ensuring Test Coverage using Requirement Traceability Matrix (RTM) â¢ Preparation of Test Completion report.
+company - CAPGEMINI Head Office
+description - Testing Trends WQR (World Quality Report) is an application which allows the users to take a survey on different methods and technologies us
+ed for testing. Users can choose to answer any type of questions under three different categories. Users have a facility to search, view and export the da
+ta to excel. Also, users get daily and weekly reports through email about the new trends in testing implemented around the globe. Testing Trends WQR app is available on Android and IOS platforms.
+
+Responsibilities: â¢ Understanding the requirements and getting clarifications from client.
+â¢ Writing test cases based on test scenarios and executed them.
+â¢ Performing different types of testing such as Functional, Integration, System, and UAT.
+â¢ Defect resolution and maintenance of the application.
+
+Catégorie de CV recommandée: Business Analyst
+Description : IT Skills: Area Exposure Modeling Tool: Bizagi, MS Visio Prototyping Tool: Indigo Studio. Documentation: MS Office (MS Word, MS Excel, MS Po
+wer Point) Testing Proficiency: Smoke, Sanity, Integration, Functional, Acceptance and UI Methodology implemented: Waterfall, Agile (Scrum) Database: SQL Testing Tool: HPQC Business Exposure Education Details
+ Bachelor Of Computer Engineering Computer Engineering Mumbai, Maharashtra Thadomal Shahani Engineering college
+ Diploma Computer Engineering Ulhasnagar, Maharashtra Institute of Technology
+ Secondary School Certificate  Ulhasnagar, Maharashtra New English High School
+Senior Business Analyst - RPA
+
+Senior Business Analyst - RPA - Hexaware Technologies
+Skill Details
+DOCUMENTATION- Exprience - 47 months
+TESTING- Exprience - 29 months
+INTEGRATION- Exprience - 25 months
+INTEGRATOR- Exprience - 25 months
+PROTOTYPE- Exprience - 13 monthsCompany Details
+company - Hexaware Technologies
+description - Working as a RPA Business Analyst
+company - BBH- Brown Brothers Harriman & Co
+description - is a private bank that provides commercial banking, investment management, brokerage, and trust services to private companies and individuals. It also performs merger advisory, foreign exchange, custody services, commercial banking, and corporate financing services.
+
+Responsibilities: â¢ Performed Automation Assessment of various Processes and identified processes which can be candidates of RPA.
+â¢ Conducting Assessment that involves an initial Understanding of the Existing System, their technology, processes, Usage of the tools, Feasibility of tool with automation tool along with automation ROI analysis.
+â¢ Preparing the Automation Potential Sheet which describes the steps in the process, the volume and frequency of the transaction, the AHT taken by SME to perform the process and depending on the steps that could be automated, Automation potential and the manual efforts that will be saved are calculated.   
+Calculating the complexity of the Process which is considered for automation and depending on all these factors Number of Bots and Number of Automation tool Licenses are determined.
+â¢ Implementing a Proof of Concept (POC) to Validate Feasibility by executing the selected critical use cases for conducting a POC which will helps to identify financial and operational benefits and provide recommendations regarding the actual need for complete automation.
+â¢ Gathering business requirements by conducting detailed interviews with business users, stakeholders, and Subject Matter Experts (SME's) â¢ Preparing Business Requirement Document and then converted Business requirements into Functional Requirements Specification.
+ â¢ Constructing prototype early toward a design acceptable to the customer and feasible.
+â¢ Assisting in designing test plans, test scenarios and test cases for integration, regression, and user acceptance testing (UAT) to improve the overall quality of the Automation.
+â¢ Participating regularly in Walkthroughs and Review meetings with Project Manager, QA Engineers, and Development team.
+â¢ Regularly interacting with offshore and onshore development teams.
+company - FADV - First Advantage
+description - is a criminal background check company that delivers global solutions ranging from employment screenings to background checks.
+The following are the processes which were covered:
+Email Process, Research Process, Review Process.
+
+Responsibilities: â¢ Requirement Gathering through conducting Interviews & Brainstorming sessions with stakeholders â¢ To develop decision models and execute those rules as per the use case specifications.
+â¢ To Test/validate the decision models against document test data.
+â¢ To maintain and enhance the decision models for changes in regulations as per use case specifications.
+â¢ Responsible for performing the business research that will make a business growth.
+â¢ Developing a clear understanding of existing business functions and processes.
+â¢ Effectively communicate with the onsite clients for the queries, suggestions, and update.
+â¢ Giving suggestions to enhance the current processes.
+â¢ Identifying areas for process improvement.
+â¢ Flagging up potential problems at an early stage.
+â¢ Preparing PowerPoint presentations and documents for business meetings.
+â¢ Using any information gathered to write up detailed reports.
+â¢ Highlighting risks and issues that could impact project delivery.
+â¢ Able to work accurately.
+â¢ To develop and maintain documentation for internal team training and client end user operations.
+â¢ To work efficiently with team members and across teams.
+â¢ To mentor and train junior team members.
+company - Clinical Testing, Lab Work and Diagnostic Testing
+description - IQVIA provides services to its customers this includes: Clinical Testing, Lab Work and Diagnostic Testing under clinical trial. These customers need to pay to IQVIA and aging details and invoices are generated for the same.
+The following are the processes which were covered:
+
+Tracking Payments, Automated Real Time Metrics Reporting (Dashboard), Past Due Notifications, AR Statements, Credit/Rebill.
+Responsibilities: â¢ Conducting meetings with clients and key stakeholders to gather requirements, analyze, finalize and have formal sign-offs from approv
+ers Gather and perform analysis of the business requirements â¢ Translating the business requirements into the Business Requirement Document [BRD], Functional Requirement Document [FRD].
+â¢ Facilitating meetings with the appropriate subject matter experts in both business and technology teams â¢ Coordinating with business user community fo
+r the execution of user acceptance test as well as tracking issues â¢ Working, collaborating and coordinating with Offshore and Onsite team members to ful
+fill the BA responsibilities from project initiation to Post-Implementation â¢ Reviewing the test scripts with business users as well as technology team. 
+Execute test scripts with expected results for the System Integration Test (SIT) and User Acceptance Test (UAT) â¢ Coordinating and conducting the Product
+ion Acceptance Testing (PAT) with the business users â¢ Creating flow diagrams, structure charts, and other types of system or process representations â¢ 
+Managing changes to requirements and baseline through a change control process â¢ Utilizing standard methods, design and testing tools throughout project 
+development life cycle â¢ Work closely with the operational functional teams, operations management, and personnel, and various technology teams to facilitate a shared understanding of requirements and priorities across all areas
+company - Eduavenir IT Solution
+description - Project: M.B.M.S
+
+M.B.M.S. - is an Inventory management application that allows user to manage inventory details of different warehouses, having different products located 
+at various locations and help extract what goods have been procured, sold or returned by customers. It generates automated invoicesalong withcustomized re
+ports. It also managescustomer complaint and resolution system implementation along with automated MIS on monthly basis.Sales and forecastingis also devel
+oped on MIS System and the streamlining of process of warehousing and dispatch along with online proof of delivery management system (POD documentation) is generated.
+
+Responsibilities: â¢ Participate in requirement gathering discussion with client to understand the flow of business processes â¢ Analyze the requirements 
+and determine the core processes, develop Process Documentation and ensure to stay up-to-date in conjunction with on-going changes â¢ Participate in process flow analysis and preparing BRD, SRS.
+â¢ Coordinating with developers, designers & operations teams for various nuances of the project, communicate the stakeholder requirements from requirement /enhancement to implementation and finally deliver the same within estimated timeframe.
+â¢ Support UAT by reviewing test cases, manage version control of documents, software builds.
+â¢ Coordinate with the stakeholders for UAT sign off and coordinate internally for production movement till Golive stage of the application.
+â¢ Provide demo and training to internal and end user using PowerPoint presentation.
+â¢ Resolving project functional &technical issues during UAT.
+â¢ Prioritizing the Production bugs and resolving the same within the estimated timeframe.
+â¢ Preparing Project Status Report and Production Bugs Status to all the stakeholders.
+â¢ Promoting and Networking for online trading platform.
+â¢ Designing query sheet for obtaining and comparison of quotes from various vendors.
+â¢ Development of product codes / material codes for inventory management (Master Data Management)
+company - CAPGEMINI Head Office
+description - Type: Mobile and Device Testing.       Duration: January 2014 - August 2014
+
+Follet - An application which takes an electronic request from the user for the books he requires from a particular follet store. This detailed informatio
+n about books that will include the name of the book, its price, the date of the transaction and the parties involved which will then be sent to follet st
+ores. User then create request for one or more books for a given date. This request is then processed further and user gets a mail of the date when he will be provided with that book.
+
+Responsibilities: â¢ Understanding the needs and business requirements.
+â¢ Preparing BRD, SRS by eliciting all the requirements from the client and SMEs â¢ Understanding the dependency of the modules in the system â¢ Preparation of test plan for Unit level and Integration level.
+â¢ Preparation and execution of test cases.
+â¢ Defect tracking, Issue Resolution, Risk Monitoring, Status Tracking, Reporting and Follow-up.
+â¢ Preparation of Test Completion report.
+company - CAPGEMINI Head Office
+description -
+company - CAPGEMINI Head Office
+description - Humana is a health care insurance project of U.S. which deals with supplying various medicines to citizens as per the doctor's reference and
+ patient's insurance policy. This application keeps track of all the medicines user has consumed in the past and generates a patient history. A citizen is given a drug only after the doctor's reference so the doctor's information is also linked with the patient's history.
+
+Responsibilities: â¢ Understanding the requirements and getting clarifications from client.
+â¢ Involved in writing test cases based on test scenarios and execute them.
+â¢ Ensuring Test Coverage using Requirement Traceability Matrix (RTM) â¢ Preparation of Test Completion report.
+company - CAPGEMINI Head Office
+description - Testing Trends WQR (World Quality Report) is an application which allows the users to take a survey on different methods and technologies us
+ed for testing. Users can choose to answer any type of questions under three different categories. Users have a facility to search, view and export the da
+ta to excel. Also, users get daily and weekly reports through email about the new trends in testing implemented around the globe. Testing Trends WQR app is available on Android and IOS platforms.
+
+Responsibilities: â¢ Understanding the requirements and getting clarifications from client.
+â¢ Writing test cases based on test scenarios and executed them.
+â¢ Performing different types of testing such as Functional, Integration, System, and UAT.
+â¢ Defect resolution and maintenance of the application.
+
+PS C:\Users\Nantenaina Eulalie\Documents\S.de.R_exposant> 
+
